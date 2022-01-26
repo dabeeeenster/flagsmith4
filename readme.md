@@ -10,7 +10,7 @@ our hosted API, deploy to your own private cloud, or run on-premise.
 
 # Flagsmith
 
-Flagsmith makes it easy to create and manage features flags across web, mobile, and server side applications. Just wrap
+Flagsmith makes it easy to create and manage feaftures flags across web, mobile, and server side applications. Just wrap
 a section of code with a flag, and then use Flagsmith to toggle that feature on or off for different environments, users
 or user segments.
 
